@@ -11,7 +11,7 @@ This is a project is developed in Linux and uses haar casade from Open CV to det
 
 ## Links to the packages and method to install vlc-ctrl
   
-  This has a detailed procedure for installation of Open CV in Linux
+  This has a detailed procedure for instaling Open CV in Linux
    * http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html
    
    
