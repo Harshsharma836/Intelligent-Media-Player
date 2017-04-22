@@ -12,16 +12,16 @@ Have you ever thought that if you are watching a movie and as soon as you look a
 
 ## Links to the packages and method to install vlc-ctrl
   
-  1)This has a detailed procedure for instaling Open CV in Linux
+  1) This has a detailed procedure for instaling Open CV in Linux
     * http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html
     
-  2)Installing vlc-ctrl packagae for linux using pip install
+  2) Installing vlc-ctrl packagae for linux using pip install
     * pip2 install vlc-ctrl ( If you have both python2 and python3 installed )
     * pip install vlc-ctrl ( If you have only python2 installed )
    
-  3)I have used Python 2 because I had insalled opencv in it.
+  3) I have used Python 2 because I had insalled opencv in it.
   
-  4)Any VLC Media player is fine for running the application just make sure that it is not too outdated. 
+  4) Any VLC Media player is fine for running the application just make sure that it is not too outdated. 
     
 ## This is how I did it
 
