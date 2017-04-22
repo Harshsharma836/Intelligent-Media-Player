@@ -33,4 +33,5 @@ Have you ever thought that if you are watching a movie and as soon as you look a
   * You should put your video which you want to play in the folder assigned by me.
   * Must download a shell file which will be running in background for checking if you have clicked VLC Media player. 
   * Works only for VLC Media player. 
+  * The lighting of the room and camera resolution effects the program. 
 
