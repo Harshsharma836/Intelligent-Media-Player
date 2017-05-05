@@ -35,4 +35,4 @@ Have you ever thought that if you are watching a movie and as soon as you look a
   * Works only for VLC Media player. 
   * The lighting of the room and camera resolution effects the program. 
 
-#### NOTE: You have to change the path in which the folder is contained
+#### NOTE: You have to change the path to which the video is contained in the code. *Happy Coding*!!!!
