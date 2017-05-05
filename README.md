@@ -22,6 +22,8 @@ Have you ever thought that if you are watching a movie and as soon as you look a
   3) I have used Python 2 because I had insalled opencv in it.
   
   4) Any VLC Media player is fine for running the application just make sure that it is not too outdated. 
+  
+  5) You can get the haar cascade classifier from the link https://github.com/opencv/opencv/tree/master/data/haarcascades
     
 ## This is how I did it
 
