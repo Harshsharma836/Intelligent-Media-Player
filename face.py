@@ -37,11 +37,5 @@ except KeyboardInterrupt:
 
 cap.release() 
 
-#TITLE
-#GRP_MEMBERS
-#ABSTRACT
-#TECH
-#ALGO
-#SNAPSHOT
 
 
