@@ -1,6 +1,8 @@
 # Intelligent Media Player
 Have you ever thought that if you are watching a movie and as soon as you look away for some reason like someone called you or fetching a glass of water for yourself, the computer understands it and the movie pauses by itself? This project helps you to achieve it. Intelligent media player is developed for Linux based system and uses haar casade from Open CV to detect face position and control the media player (VLC Media Player)  accordingly. If the user is seeing the screen the media plays but as soon as the user changes his face position  ( looks away from the screen ) the media player pauses and waits until the user see's back to the screen. 
 
+### Note: To watch the video demo click [here](https://www.youtube.com/watch?v=nsib5cI34M8)
+
 ## Packages and software required to run the application
   1. Python 2
   2. Open CV 
